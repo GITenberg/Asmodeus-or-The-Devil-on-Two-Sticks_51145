@@ -1,5 +1,5 @@
 _repo: Asmodeus-or-The-Devil-on-Two-Sticks_51145
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Le diable boiteux. English
 contributor:
   contributor:
@@ -20,6 +20,9 @@ contributor:
     agent_name: Thomas, Joseph
     gutenberg_agent_id: '46261'
     url: http://www.gutenberg.org/2009/agents/46261
+covers:
+- cover_type: archival
+  image_path: 51145-h/images/cover.png
 creator:
   author:
     agent_name: Le Sage, Alain René
@@ -34,6 +37,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6207
     wikipedia: http://en.wikipedia.org/wiki/Alain-René_Lesage
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51145#Asmodeus-or-The-Devil-on-Two-Sticks
 gutenberg_issued: '2016-02-08'
 gutenberg_type: Text
 identifiers:
