@@ -1,0 +1,53 @@
+_repo: Asmodeus-or-The-Devil-on-Two-Sticks_51145
+_version: 0.0.1
+alternative_title: Le diable boiteux. English
+contributor:
+  contributor:
+    agent_name: Janin, Jules Gabriel
+    alias: Janin, J. (Jules)
+    birthdate: 1804
+    deathdate: 1874
+    gutenberg_agent_id: '4431'
+    url: http://www.gutenberg.org/2009/agents/4431
+    wikipedia: http://en.wikipedia.org/wiki/Jules_Janin
+  illustrator:
+    agent_name: Johannot, Tony
+    birthdate: 1803
+    deathdate: 1852
+    gutenberg_agent_id: '31992'
+    url: http://www.gutenberg.org/2009/agents/31992
+  translator:
+    agent_name: Thomas, Joseph
+    gutenberg_agent_id: '46261'
+    url: http://www.gutenberg.org/2009/agents/46261
+creator:
+  author:
+    agent_name: Le Sage, Alain René
+    aliases:
+    - Le Sage, Alain Rene
+    - Lesage, Alain-René
+    - Sage, Alain René Le
+    - Sage, Alain-René le
+    birthdate: 1668
+    deathdate: 1747
+    gutenberg_agent_id: '6207'
+    url: http://www.gutenberg.org/2009/agents/6207
+    wikipedia: http://en.wikipedia.org/wiki/Alain-René_Lesage
+description: ''
+gutenberg_issued: '2016-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51145'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into English'
+- !lcsh 'Madrid (Spain) -- Fiction'
+- !lcsh 'Good and evil -- Fiction'
+- !lcsh 'Devil -- Fiction'
+- GITenberg
+title: Asmodeus; or, The Devil on Two Sticks
+url: http://www.gutenberg.org/ebooks/51145
